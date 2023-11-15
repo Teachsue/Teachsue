@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-<!--
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=dark)   
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=radical)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=merko)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=gruvbox)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=tokyonight)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=onedark)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=cobalt)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=synthwave)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=highcontrast)  
+![Teachsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teachsue&show_icons=true&theme=dracula)
 **Teachsue/Teachsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
